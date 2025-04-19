@@ -243,7 +243,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: D:\Documents\Spring 2025\ECSE 351\GNU Radio Project\Fluffing a Duck.wav
+    file: Fluffing a Duck.wav
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
@@ -261,7 +261,7 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    file: D:\Documents\Spring 2025\ECSE 351\GNU Radio Project\Monkeys Spinning Monkeys.wav
+    file: Monkeys Spinning Monkeys.wav
     maxoutbuf: '0'
     minoutbuf: '0'
     nchan: '1'
